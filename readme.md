@@ -30,7 +30,9 @@ A responsive front-end clone of the Netflix homepage built using **HTML** and **
 3. Open index.html in your browser.
 
 📂 Folder Structure
+
     netflix-clone/
+    
     ├── index.html
     ├── style.css
     └── screenshots.png
