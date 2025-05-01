@@ -29,6 +29,8 @@ A responsive front-end clone of the Netflix homepage built using **HTML** and **
     cd netflix-clone
 3. Open index.html in your browser.
 
+You can see the website liek at [text](https://bishnu-prasad-sahu.github.io/A-Fully-Responsive-Netflix-Frontend-Clone/)
+
 📂 Folder Structure
 
     netflix-clone/
